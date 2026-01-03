@@ -1,4 +1,4 @@
-FROM ghcr.io/midnightignite1/aiostreams:latest
+FROM docker.io/midnightignite1/aiostreams:latest
 
 EXPOSE 3000
 

@@ -1,4 +1,4 @@
-FROM ghcr.io/viren070/aiostreams:latest
+FROM ghcr.io/midnightignite1/aiostreams:latest
 
 EXPOSE 3000
 

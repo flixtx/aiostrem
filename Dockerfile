@@ -1,4 +1,4 @@
-FROM midnightignite1/aiostreams:latest
+FROM nqkdev/aiostreams
 
 # Render usa a variável PORT dinamicamente
 EXPOSE 10000

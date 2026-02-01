@@ -1,4 +1,4 @@
-FROM nqkdev/aiostreams
+FROM viren070/aiostreams:nightly
 
 # Render usa a variável PORT dinamicamente
 EXPOSE 10000

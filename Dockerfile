@@ -1,4 +1,4 @@
-FROM j73642/jacks-aiostreams
+FROM midnightignite1/aiostreams
 
 # Render usa a variável PORT dinamicamente
 EXPOSE 10000

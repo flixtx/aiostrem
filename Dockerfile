@@ -1,4 +1,4 @@
-FROM viren070/aiostreams:nightly
+FROM j73642/jacks-aiostreams
 
 # Render usa a variável PORT dinamicamente
 EXPOSE 10000
